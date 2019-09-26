@@ -1,2 +1,2 @@
 # JSON Web Tokens
-JSON Web Tokens Auth is great for authenticating and protecting routes.
+JSON Web Tokens is great for authenticating and protecting routes.
